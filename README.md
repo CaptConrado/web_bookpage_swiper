@@ -27,3 +27,9 @@ Two custom events are added to the body tag by the library.  You need to bind ca
 4. Now it is running!  If you choose to stop it call
 
   `window.destroyWebcamSwiper();`
+
+
+### To Do
+* mofidy core js
+* modify css
+* modify structure
