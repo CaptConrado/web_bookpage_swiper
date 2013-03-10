@@ -1,5 +1,5 @@
 require 'sinatra'
 
-get '/' do
+get '/public.html' do
 	# erb :index
 end
