@@ -1,5 +1,6 @@
 require 'sinatra'
 
-get '/public.html' do
-	# erb :index
+get '/' do
+	redirect '/index.html'
 end
+

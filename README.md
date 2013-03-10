@@ -1,6 +1,8 @@
 WebcamSwiper
 ============
 
+Adding features the WebcamSwiper originally created by []
+
 An experiment using getUserMedia to watch for swipes left and right with a hand.  This could be applied to many different uses.  Flipping through pictures in an image carousel, moving to the next item in a list, flipping pages of a book or magazine, etc.
 
 [Demo](http://iambrandonn.github.com/WebcamSwiper)
